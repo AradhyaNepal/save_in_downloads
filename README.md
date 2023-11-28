@@ -1,6 +1,6 @@
 # save_in_downloads
 
-Flutter package to easily download any file into server url into the download folder for Android or (under_research) for IOS.
+Flutter package to easily download any file from server url into the download folder for Android or (under_research) for IOS.
 
 ## Getting Started
 
